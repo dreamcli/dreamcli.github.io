@@ -1,9 +1,6 @@
 body {
     font-family: 'Poppins', sans-serif;
-    background: 
-        radial-gradient(circle at top left, rgba(162, 182, 202, 0.2), rgba(30, 30, 30, 0.9) 70%),
-        radial-gradient(circle at bottom right, rgba(163, 211, 223, 0.699), rgba(30, 30, 30, 0.9) 70%);
-    background-size: 100% 100%;
+    background: linear-gradient(to right, #1a1a2e, #484b52, #636b75);
     background-attachment: fixed;
     color: #e0e0e0;
     margin: 0;
